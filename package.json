@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "path": "^0.12.7",
+    "prettier": "^3.1.1",
+    "prettier-plugin-move": "file:./prettier-plugin-move",
+    "web-tree-sitter": "^0.24.4"
+  }
+}

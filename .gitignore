@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# IDEs
+*.iml
+.idea
+
+# env
+.env
+.env.*
+!.env.example
+
+# artifacts
+/build
+/node_modules
