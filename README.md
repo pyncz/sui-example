@@ -1,6 +1,6 @@
 ## Development
 
-### 🚀 Setup
+### 🛠️ Setup
 
 - [Install Sui CLI](https://docs.sui.io/guides/developer/getting-started/sui-install), e.g. with `brew install sui`
 - Install `move-analyzer` language server
@@ -32,4 +32,10 @@ sui move build
 
 ```
 sui move test
+```
+
+### 🚀 Publish
+
+```
+sui client publish --gas-budget 69420
 ```
